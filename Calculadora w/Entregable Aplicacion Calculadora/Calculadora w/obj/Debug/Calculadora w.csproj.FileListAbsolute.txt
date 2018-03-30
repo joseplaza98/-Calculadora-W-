@@ -56,3 +56,61 @@ C:\Users\usuario\Desktop\Calculadora w\Calculadora w\obj\Debug\Calculadora w.csp
 C:\Users\usuario\Desktop\Calculadora w\Calculadora w\obj\Debug\Calculadora w.csproj.CopyComplete
 C:\Users\usuario\Desktop\Calculadora w\Calculadora w\obj\Debug\Calculadora w.dll
 C:\Users\usuario\Desktop\Calculadora w\Calculadora w\obj\Debug\Calculadora w.pdb
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\Calculadora w.dll.config
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\Calculadora w.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\Calculadora w.pdb
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\csc.exe
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\csc.exe.config
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\csc.rsp
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\csi.exe
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\csi.exe.config
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\csi.rsp
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.AppContext.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.Console.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.IO.Compression.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.IO.Pipes.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.Security.Claims.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.Threading.Thread.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.ValueTuple.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.Xml.XPath.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\vbc.exe
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\vbc.exe.config
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\vbc.rsp
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\VBCSCompiler.exe
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\obj\Debug\Calculadora w.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\obj\Debug\Calculadora w.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\obj\Debug\Calculadora w.csproj.CopyComplete
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\obj\Debug\Calculadora w.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Entregable Aplicacion Calculadora\Calculadora w\obj\Debug\Calculadora w.pdb

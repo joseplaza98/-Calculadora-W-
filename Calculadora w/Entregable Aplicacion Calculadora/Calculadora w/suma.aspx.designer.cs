@@ -40,24 +40,6 @@ namespace Calculadora_w {
         protected global::System.Web.UI.WebControls.Label lbl2;
         
         /// <summary>
-        /// Control txtNumero2.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtNumero2;
-        
-        /// <summary>
-        /// Control btnSumar.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSumar;
-        
-        /// <summary>
         /// Control lblResultado.
         /// </summary>
         /// <remarks>
@@ -67,6 +49,15 @@ namespace Calculadora_w {
         protected global::System.Web.UI.WebControls.Label lblResultado;
         
         /// <summary>
+        /// Control txtNumero2.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtNumero2;
+        
+        /// <summary>
         /// Control txtResultado.
         /// </summary>
         /// <remarks>
@@ -74,5 +65,14 @@ namespace Calculadora_w {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtResultado;
+        
+        /// <summary>
+        /// Control btnSumar.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnSumar;
     }
 }

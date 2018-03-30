@@ -1,0 +1,11 @@
+C:\Users\Unicomfacauca\source\repos\AppWEB_WS\AppWEB_WS\bin\AppWEB_WS.dll.config
+C:\Users\Unicomfacauca\source\repos\AppWEB_WS\AppWEB_WS\bin\AppWEB_WS.dll
+C:\Users\Unicomfacauca\source\repos\AppWEB_WS\AppWEB_WS\bin\AppWEB_WS.pdb
+C:\Users\Unicomfacauca\source\repos\AppWEB_WS\AppWEB_WS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Unicomfacauca\source\repos\AppWEB_WS\AppWEB_WS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Unicomfacauca\source\repos\AppWEB_WS\AppWEB_WS\obj\Debug\AppWEB_WS.csprojResolveAssemblyReference.cache
+C:\Users\Unicomfacauca\source\repos\AppWEB_WS\AppWEB_WS\obj\Debug\AppWEB_WS.csproj.CoreCompileInputs.cache
+C:\Users\Unicomfacauca\source\repos\AppWEB_WS\AppWEB_WS\obj\Debug\AppWEB_WS.dll
+C:\Users\Unicomfacauca\source\repos\AppWEB_WS\AppWEB_WS\obj\Debug\AppWEB_WS.pdb
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Guias para el desarrollo con trabajos anteriores\AppWeb_WS-master\obj\Debug\AppWEB_WS.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Guias para el desarrollo con trabajos anteriores\AppWeb_WS-master\obj\Debug\AppWEB_WS.pdb

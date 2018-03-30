@@ -1,0 +1,11 @@
+C:\Users\Unicomfacauca\source\repos\Web_Bustrap\Web_Bustrap\bin\Web_Bustrap.dll.config
+C:\Users\Unicomfacauca\source\repos\Web_Bustrap\Web_Bustrap\bin\Web_Bustrap.dll
+C:\Users\Unicomfacauca\source\repos\Web_Bustrap\Web_Bustrap\bin\Web_Bustrap.pdb
+C:\Users\Unicomfacauca\source\repos\Web_Bustrap\Web_Bustrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Unicomfacauca\source\repos\Web_Bustrap\Web_Bustrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Unicomfacauca\source\repos\Web_Bustrap\Web_Bustrap\obj\Debug\Web_Bustrap.csprojResolveAssemblyReference.cache
+C:\Users\Unicomfacauca\source\repos\Web_Bustrap\Web_Bustrap\obj\Debug\Web_Bustrap.csproj.CoreCompileInputs.cache
+C:\Users\Unicomfacauca\source\repos\Web_Bustrap\Web_Bustrap\obj\Debug\Web_Bustrap.dll
+C:\Users\Unicomfacauca\source\repos\Web_Bustrap\Web_Bustrap\obj\Debug\Web_Bustrap.pdb
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Guias para el desarrollo con trabajos anteriores\Bootstrap-master\Web_Bustrap\obj\Debug\Web_Bustrap.dll
+C:\Users\usuario\Desktop\Entrega Princ_Web Calculadora\Calculadora w\Guias para el desarrollo con trabajos anteriores\Bootstrap-master\Web_Bustrap\obj\Debug\Web_Bustrap.pdb
