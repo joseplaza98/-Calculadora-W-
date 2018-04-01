@@ -34,7 +34,7 @@
             <asp:TextBox ID="txtResultado" runat="server" style="margin-left: 200px" Width="117px"></asp:TextBox>
             <br />
             <br />
-            <asp:Button ID="btnMultiplicar" runat="server" Text="Multiplicar" style="margin-left: 53px; font-weight: 700;" Width="105px"/>
+            <asp:Button ID="btnMultiplicar" runat="server" Text="Multiplicar" style="margin-left: 53px; font-weight: 700;" Width="105px" OnClick="btnMultiplicar_Click"/>
             <br />
             <br />
             <br />

@@ -35,7 +35,7 @@
             <asp:TextBox ID="txtResultado" runat="server" style="margin-left: 200px" Width="117px"></asp:TextBox>
             <br />
             <br />
-            <asp:Button ID="btnSumar" runat="server" Text="Sumar" style="margin-left: 53px; font-weight: 700;" Width="105px" OnClick="Page_Load"/>
+            <asp:Button ID="btnSumar" runat="server" Text="Sumar" style="margin-left: 53px; font-weight: 700;" Width="105px" OnClick="btnSumar_Click"/>
             <br />
             <br />
             <br />

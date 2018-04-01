@@ -48,6 +48,8 @@
       <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
@@ -66,7 +68,29 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Connected Services\ServidorCalculadoraW\Calculadora_w.ServidorCalculadoraW.divideResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Connected Services\ServidorCalculadoraW\Calculadora_w.ServidorCalculadoraW.multiplicaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Connected Services\ServidorCalculadoraW\Calculadora_w.ServidorCalculadoraW.restaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Connected Services\ServidorCalculadoraW\Calculadora_w.ServidorCalculadoraW.sumaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <None Include="Connected Services\ServidorCalculadoraW\WS_Test.wsdl" />
+    <None Include="Connected Services\ServidorCalculadoraW\WS_Test.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
+    <None Include="Connected Services\ServidorCalculadoraW\configuration91.svcinfo" />
+    <None Include="Connected Services\ServidorCalculadoraW\configuration.svcinfo" />
+    <None Include="Connected Services\ServidorCalculadoraW\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
     <Content Include="Site1.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -85,6 +109,11 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Connected Services\ServidorCalculadoraW\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -135,8 +164,15 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+    <Folder Include="resultado\" />
     <Folder Include="war\" />
     <Folder Include="WS_Test\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\ServidorCalculadoraW\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
